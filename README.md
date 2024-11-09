@@ -1,5 +1,5 @@
 
-# Discord Logger
+# Discord Tracker
 
 This application uses multiple Discord user accounts to scan and track the username history of members in servers. The project is currently a work in progress.
 
@@ -40,8 +40,8 @@ discord_logger/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord_logger.git
-   cd discord_logger
+   git clone https://github.com/fsetinh/discordusertracker.git
+   cd Discord_Tracker
    ```
 
 2. Install the required packages:
